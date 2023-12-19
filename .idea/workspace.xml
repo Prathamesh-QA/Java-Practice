@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec39ece-fb95-4c35-a1f1-4c043d070aa7" name="Changes" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/ArraysConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ArraysConcept.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ArraysConcept" />
+      <option name="MAIN_CLASS_NAME" value="LoopConcepts" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,6 +118,11 @@
           <url>file://$PROJECT_DIR$/StringConcepts.java</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OperatorsConcept.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
