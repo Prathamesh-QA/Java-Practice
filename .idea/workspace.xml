@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec39ece-fb95-4c35-a1f1-4c043d070aa7" name="Changes" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoopConcepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/ArraysConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ArraysConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/LoopConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/LoopConcepts.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +45,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="LoopConcepts" />
+      <option name="MAIN_CLASS_NAME" value="ListConcepts.ArrayListConcepts" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,6 +126,10 @@
           <line>16</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

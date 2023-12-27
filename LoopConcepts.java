@@ -27,6 +27,13 @@ public class LoopConcepts {
             }
         }
 
+        //1. Write a program to add the numbers from the start of the loop to end of the loop for eg : for-loop 1-10 :- Ans 55 (Print 55)
+        //2. Print numbers -10 to 10 using for loop
+        //3. Variables int a = 175, b = 332, c = 231 find the smallest number using conditional operators
+
+
+
+
 
     }
 }
